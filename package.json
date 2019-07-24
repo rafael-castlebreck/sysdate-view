@@ -6,7 +6,7 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1",
-    "sysdate-component": "git+https://github.com/rafael-castlebreck/sysdate-component.git"
+    "sysdate-component": "git+https://github.com/rafael-castlebreck/sysdate-component-dev.git"
   },
   "scripts": {
     "start": "react-scripts start",
